@@ -1,0 +1,7 @@
+Creacion de rama
+
+git branch perfil
+git checkout perfil
+
+Union de ramas:
+git marge  perfil
