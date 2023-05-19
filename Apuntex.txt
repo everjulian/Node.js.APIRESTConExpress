@@ -4,4 +4,4 @@ git branch perfil
 git checkout perfil
 
 Union de ramas:
-git marge  perfil
+git merge  perfil
